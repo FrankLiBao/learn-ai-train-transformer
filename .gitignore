@@ -43,7 +43,3 @@ env/
 # Jupyter Notebook
 .ipynb_checkpoints/
 
-# Output directories
-result/
-image/
-data/
